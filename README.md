@@ -3,7 +3,7 @@
 
 **Control Flow Graph**
 
-![Lab2_CFG drawio](https://github.com/user-attachments/assets/271dc5b9-3d30-42ed-8db2-e345c362e5d7)
+![lab2_CFG drawio](https://github.com/user-attachments/assets/83d73c93-61da-478a-824a-e6cb74b2faec)
 
 **Цикломатска комплексност**
 Цикломатската комплексност на овој код е 2, истата ја добив преку формулата P+1, каде што P е бројот на предикатни јазли. Во случајoв P=1, па цикломатската комплексност изнесува 2.
