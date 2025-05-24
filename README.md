@@ -1,7 +1,8 @@
-![Lab2_CFG drawio](https://github.com/user-attachments/assets/eed48d9e-1a96-4615-87a3-4e0139940de9)# Втора лабораториска вежба по Софтверско инженерство
+# Втора лабораториска вежба по Софтверско инженерство
 ## Синиша Зориќ, бр. на индекс 221260
 
 **Control Flow Graph**
+
 ![Lab2_CFG drawio](https://github.com/user-attachments/assets/271dc5b9-3d30-42ed-8db2-e345c362e5d7)
 
 **Цикломатска комплексност**
