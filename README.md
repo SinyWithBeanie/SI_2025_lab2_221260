@@ -31,3 +31,7 @@
 6. | true | false | true | true |
 7. | true | true | false | true |
 8. | true | true | true | true |
+
+**Објаснување на напишаните unit tests**
+
+Објаснувањето е имплемнтирано во самиот код.
